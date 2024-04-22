@@ -3,11 +3,11 @@
 128x64 OLED SPI 0.96" Display
 =============================
 _2023/5/27 from cyc
+_2024/4/22 from cyc
 ___
-You can see four files: 
+You can see three files: 
 >oled.c
 >oled.h
->bmp.h
 >oledfont.h
 
 To use it properly you need to 
@@ -68,5 +68,3 @@ Screen | label_name |  PCB_Silkscreen
   
   OLED_Refresh();
   ```
-## 哈哈
-<!-- 毕越川哈哈 -->
